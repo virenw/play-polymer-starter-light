@@ -1,2 +1,6 @@
 Play framework with Google Polymer starter light.
 Requires Java 8
+Start application using command,
+./activator run
+
+The application is running on port 9000. Open web browser and go to http://127.0.0.1:9000
