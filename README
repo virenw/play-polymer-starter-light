@@ -1,4 +1,2 @@
-This is your new Play application
-=================================
-
-This file will be packaged with your application, when using `activator dist`.
+Play framework with Google Polymer starter light.
+Requires Java 8
